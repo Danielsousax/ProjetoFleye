@@ -1,0 +1,26 @@
+# dependencies
+
+/package-lock.json
+/node_modules
+
+/apoten/node_modules
+/apoten/package-lock.json
+/apoten/.pnp
+/apoten.pnp.js
+
+# testing
+/apoten/coverage
+
+# production
+/apoten/build
+
+# misc
+/apoten/.DS_Store
+/apoten/.env.local
+/apoten/.env.development.local
+/apoten/.env.test.local
+/apoten/.env.production.local
+
+/apoten/npm-debug.log*
+/apoten/yarn-debug.log*
+/apoten/yarn-error.log*
